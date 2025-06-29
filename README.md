@@ -98,7 +98,7 @@ PASSWORD=a6b091a6-679b-47d1-bc72-a4ac78ba2778
 ## 鸣谢
 
 - 作者：https://github.com/vipmc838/claw-hy2-agent
-- 在上面作者上照抄作业，同理可证，只要有docker用容器的都可以用上此程序 。
+- 在上面是原作者，我是照抄作业，同理可证，只要有docker用容器的都可以用上此程序 。
 
 ---
 
