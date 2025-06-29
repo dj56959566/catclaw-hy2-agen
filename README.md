@@ -1,6 +1,6 @@
 
 # 这是一个用于catcloud 容器部署代理 [Hysteria2 + Nezha Agent](https://github.com/vipmc838/claw-hy2-agent) 的轻量级 Docker 镜像。
-# 麻烦帮点一小星星谢谢！
+# 麻烦帮点下--------小星星----谢谢！
 
 ![Docker 镜像大小](https://img.shields.io/docker/image-size/mc838/claw-hy2-agent/latest)
 ![Docker 拉取次数](https://img.shields.io/docker/pulls/mc838/claw-hy2-agent)
