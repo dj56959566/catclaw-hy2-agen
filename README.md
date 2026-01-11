@@ -106,4 +106,12 @@ PASSWORD=a6b091a6-679b-47d1-bc72-a4ac78ba2778
 
 - 本程序仅供学习了解，非盈利目的，请于下载后 24 小时内删除，不得用作任何商业用途，文字、数据及图片均有所属版权，如转载须注明来源。  
 - 使用本程序必须遵守部署服务器所在地、所在国家和用户所在国家的法律法规，程序作者不对使用者任何不当行为负责。
+# 项目名
+
+<!-- 徽章区 -->
+[![Stars](https://img.shields.io/github/stars/dj56959566/catclaw-hy2-agen)](https://github.com/dj56959566/catclaw-hy2-agen)
+
+<!-- Star History -->
+## ⭐ Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=dj56959566/catclaw-hy2-agen&type=Date)](https://star-history.com/#dj56959566/catclaw-hy2-agen&Date)
 
